@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+li {
+  cursor: pointer;
+  user-select: none;
+}

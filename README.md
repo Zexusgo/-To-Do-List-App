@@ -8,5 +8,6 @@ Handling events (form submit, button clicks)
 
 Arrays and objects
 
-Saving to local storage (optional for now)
+Saving to local storage 
 
+Mark Tasks as Completed
